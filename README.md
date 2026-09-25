@@ -1,25 +1,27 @@
 # Ben Birkhahn
 
-**Sports business + technology — client strategy, operations, and AI-powered automation.**
+**AI implementation + product operations — workflow automation, practical tools, and technical translation.**
 
-I’m a Drexel Entrepreneurship & Innovation graduate who works where sports business meets a technical edge. My experience spans client accounts, revenue support, and live-event operations across MLB, NBA, NHL, NFL, NASCAR, and premium hospitality at Citizens Bank Park.
+I’m a Drexel Entrepreneurship & Innovation graduate who works at the intersection of technology, operations, and communication. My experience spans AI go-to-market work, competitive intelligence, product operations, partner integrations, onboarding workflows, client support, and revenue operations across technology, sports, entertainment, and service businesses.
 
-Alongside that operating experience, I build practical systems with automation, APIs, Python, and AI—turning work that is usually manual into reliable, shippable products. Recent work includes an automated MLB content pipeline with more than 700 published videos and 709,089 public YouTube views, plus live tools for sports and real-time travel data.
+Alongside that operating experience, I build practical systems with automation, APIs, data workflows, and AI-assisted development environments. Recent work includes TSA Tracker, an OpenAI x Handshake Codex Creator Challenge finalist; Homertrakker, an automated MLB content pipeline with more than 700 published videos and 750,000+ public YouTube views; and ClarityCheck, a document-integrity audit tool.
 
 ## Focus
 
-- Sports business operations, marketing, and technology
-- Client relationships, account support, and revenue strategy
-- Workflow automation, API integration, and AI enablement
-- Product operations, competitive intelligence, and market positioning
+- AI implementation and enablement
+- Workflow automation and process improvement
+- Product operations and technical translation
+- API integration and data workflows
+- Competitive intelligence and market positioning
+- Customer-facing technology and practical tools
 
 ## Selected work
 
-- **HomerTrakker** — Automated MLB highlight pipeline: real-time MLB StatsAPI polling, FFmpeg compilation, and YouTube auto-upload.
-- **EdgePredict** — Sports-market intelligence that compares Kalshi pricing with consensus signals.
-- **TSA Tracker** — Mobile-first TSA wait-time app; an OpenAI x Handshake Codex Creator Challenge finalist.
-- **ClarityCheck** — PDF trust-scanner prototype for hidden text and prompt-injection detection.
+- **TSA Tracker** — Mobile-first real-time TSA wait-time app and 2026 OpenAI x Handshake Codex Creator Challenge finalist.
+- **Homertrakker** — Automated MLB highlight pipeline using real-time data, media processing, and YouTube distribution.
+- **EdgePredict** — Rules-based sports market intelligence system comparing market pricing with consensus signals and applying risk controls.
+- **ClarityCheck** — PDF document-integrity tool for detecting hidden text, metadata issues, and manipulation attempts.
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/benjamin-birkhahn-421870240/) · [Portfolio](https://benbirkhahn.com) · [Email](mailto:benbirkhahn10@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/benjamin-birkhahn-421870240/) · [Portfolio](https://benbirkhahn.com) · [Email](mailto:BenBirkhahn10@gmail.com)
